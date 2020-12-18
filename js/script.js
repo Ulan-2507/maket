@@ -1,7 +1,7 @@
-import { Swiper, Pagination} from 'swiper';
+// import { Swiper, Pagination} from 'swiper';
 
-// Install modules
-Swiper.use([Pagination]);
+// // Install modules
+// Swiper.use([Pagination]);
 
 let mainDoc = document.querySelector('.wrapper');
 let blur = document.querySelector('.layer-blur');
